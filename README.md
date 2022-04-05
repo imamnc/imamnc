@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Imam Nurcholis</h1>
-<h3 align="center">A Web Developer From Indonesia</h3>
+<h3 align="center">Web Developer From Indonesia</h3>
 
 - 👨‍💻 All of my projects are available at [https://imamnc.com/profile](https://imamnc.com/profile)
 
