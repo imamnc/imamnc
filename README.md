@@ -1,15 +1,19 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&pause=1000&color=58A6FF&center=true&width=940&lines=Hi+There!+👋;+I'm+Imam+Nc;Software+Engineer+%26+Researcher" alt="Typing SVG" />
+</h1>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</div>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Imam%20Nc&amp;fontSize=60&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=Software%20Engineer%20%26%20Researcher&amp;descAlignY=60&amp;descAlign=50" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Software+Engineer+%26+Researcher;Building+scalable+systems+%F0%9F%9A%80;Clean+code+%7C+Clean+architecture;Always+learning%2C+always+shipping" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%26+Researcher;Building+scalable+systems+%F0%9F%9A%80;Clean+code+%7C+Clean+architecture;Always+learning%2C+always+shipping" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://imamnc.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-imamnc.com-0A66C2?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>
-  <a href="mailto:contact.imamnc@gmail.com"><img src="https://img.shields.io/badge/Email-contact.imamnc@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/imamnc" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-imamnc-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://imamnc.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-imamnc.com-0A66C2?style=for-the-badge&amp;logo=firefox-browser&amp;logoColor=white" /></a>
+  <a href="mailto:contact.imamnc@gmail.com"><img src="https://img.shields.io/badge/Email-contact.imamnc@gmail.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
+  <a href="https://linkedin.com/in/imamnc" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-imamnc-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
 </p>
 
 ---
@@ -64,36 +68,20 @@ currently_learning: ["Cloud-native", "Distributed Systems", "AI/ML Integration"]
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imamnc&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imamnc&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=imamnc&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;icon_color=58A6FF&amp;text_color=C9D1D9" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imamnc&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=C9D1D9" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=imamnc&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
-</p>
-
----
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imamnc&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=4" />
+  <img src="https://streak-stats.demolab.com?user=imamnc&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0D1117&amp;ring=58A6FF&amp;fire=58A6FF&amp;currStreakLabel=58A6FF" />
 </p>
 
 ---
 
-## 🔗 Connect with Me
-
 <p align="center">
-  <a href="https://linkedin.com/in/imamnc" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/imamnc_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://fb.com/imamkacun" target="_blank"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=imamnc&amp;label=Profile+Views&amp;color=58A6FF&amp;style=flat-square" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imamnc&label=Profile+Views&color=58A6FF&style=flat-square" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=100&amp;section=footer" width="100%" />
 </p>
