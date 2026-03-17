@@ -24,13 +24,8 @@
 name: Imam Nc
 role: Software Engineer & Researcher
 location: Indonesia
-focus:
-  - Backend Systems & API Design
-  - Software Architecture
-  - Research & Innovation
 website: https://imamnc.com
 contact: contact.imamnc@gmail.com
-currently_learning: ["Cloud-native", "Distributed Systems", "AI/ML Integration"]
 ```
 
 ---
