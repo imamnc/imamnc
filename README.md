@@ -73,5 +73,9 @@ currently_learning: ["Cloud-native", "Distributed Systems", "AI/ML Integration"]
 </p>
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=imamnc&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0D1117&amp;ring=58A6FF&amp;fire=58A6FF&amp;currStreakLabel=58A6FF" />
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=100&amp;section=footer" width="100%" />
 </p>
